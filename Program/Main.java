@@ -57,7 +57,7 @@ public class Main extends Application {
 		okno.setTitle("Alley of Death");
 		okno.setResizable(false);
 		okno.setScene(menu);
-		okno.shosasasw();
+		okno.show();
 		
 		
 	}
